@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApp1</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApp1.Player">
+            <summary>
+            Class to Test Attributes
+            </summary>
+        </member>
+        <member name="T:ConsoleApp1.Generator">
+            <summary>
+				The Main Generator Class
+			</summary><remarks>
+				this class can generate Id and Password
+			</remarks>
+        </member>
+        <member name="P:ConsoleApp1.Generator.LastIdSequence">
+            <value> Value of the Last Id Sequence </value>
+        </member>
+        <member name="M:ConsoleApp1.Generator.GenerateId(System.String,System.String,System.Nullable{System.DateTime})">
+            <summary>
+				Generate Id for Employee by pprocessing <paramref name="fname" />, <paramref name="lname" /> and <paramref name="hireDate" />
+				<list type="bullet">
+					<item>
+						<term>II</term>
+						<description>
+							Employee Initials (First letter of <paramref name="fname" /> and first letter of <paramref name="lname" />)
+						</description>
+					</item>
+					<item>
+						<term>YY</term>
+						<description>hire date 2 digit year</description>
+					</item>
+					<item>
+						<term>MM</term>
+						<description>hire date 2 digit month</description>
+					</item>
+					<item>
+						<term>DD</term>
+						<description>hire date 2 digit day</description>
+					</item>
+					<item>
+						<term>SS</term>
+						<description>sequence number</description>
+					</item>
+				</list>
+			</summary><param name="fname" /><param name="lname" /><param name="hireDate" /><example>
+				<code>
+					var id = Generator.GenerateId("John", "Doe", new DateTime(2020, 1, 1));
+					console.WriteLine(id);
+				</code>
+			</example><returns>employee ID as a string</returns><exception cref="T:System.InvalidOperationException">
+				thrown when <paramref name="fname" /> is null
+			</exception><exception cref="T:System.InvalidOperationException">
+				thrown when <paramref name="lname" /> is null
+			</exception><exception cref="T:System.InvalidOperationException">
+				thrown when <paramref name="hireDate" /> is in the bast
+			</exception><see cref="M:ConsoleApp1.Generator.GeneratePassword(System.Int32)" />
+        </member>
+    </members>
+</doc>

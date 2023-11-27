@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "awsDx+8bpbVRuK5kgk1kaiM2//T2NRlXFuMSxkxz/N/iAa7ToS1/OVmyvtPukoxYhrdAbOa5wlf4EehxV2wm3w==",
+  "success": true,
+  "projectFilePath": "D:\\Osama\\2023\\Backend\\C#\\Projects\\ConsoleApp1\\NugetPackaging\\NugetPackaging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osama\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

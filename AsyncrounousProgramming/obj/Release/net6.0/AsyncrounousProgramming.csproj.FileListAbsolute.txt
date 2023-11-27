@@ -1,0 +1,15 @@
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\bin\Release\net6.0\AsyncrounousProgramming.exe
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\bin\Release\net6.0\AsyncrounousProgramming.deps.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\bin\Release\net6.0\AsyncrounousProgramming.runtimeconfig.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\bin\Release\net6.0\AsyncrounousProgramming.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\bin\Release\net6.0\AsyncrounousProgramming.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.csproj.AssemblyReference.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.AssemblyInfoInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.AssemblyInfo.cs
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.csproj.CoreCompileInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\refint\AsyncrounousProgramming.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\AsyncrounousProgramming.genruntimeconfig.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\AsyncrounousProgramming\obj\Release\net6.0\ref\AsyncrounousProgramming.dll

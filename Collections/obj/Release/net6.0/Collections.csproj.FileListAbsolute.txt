@@ -1,0 +1,5 @@
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\Collections\obj\Release\net6.0\Collections.csproj.AssemblyReference.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\Collections\obj\Release\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\Collections\obj\Release\net6.0\Collections.AssemblyInfoInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\Collections\obj\Release\net6.0\Collections.AssemblyInfo.cs
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\Collections\obj\Release\net6.0\Collections.csproj.CoreCompileInputs.cache

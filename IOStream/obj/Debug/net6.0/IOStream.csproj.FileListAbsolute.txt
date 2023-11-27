@@ -1,0 +1,15 @@
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\bin\Debug\net6.0\IOStream.exe
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\bin\Debug\net6.0\IOStream.deps.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\bin\Debug\net6.0\IOStream.runtimeconfig.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\bin\Debug\net6.0\IOStream.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\bin\Debug\net6.0\IOStream.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.csproj.AssemblyReference.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.AssemblyInfoInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.AssemblyInfo.cs
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.csproj.CoreCompileInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\refint\IOStream.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\IOStream.genruntimeconfig.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\IOStream\obj\Debug\net6.0\ref\IOStream.dll

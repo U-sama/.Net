@@ -1,0 +1,17 @@
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\NugetPackaging.exe
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\NugetPackaging.deps.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\NugetPackaging.runtimeconfig.json
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\NugetPackaging.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\NugetPackaging.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\bin\Debug\net6.0\Humanizer.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.csproj.AssemblyReference.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.AssemblyInfoInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.AssemblyInfo.cs
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.csproj.CoreCompileInputs.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.csproj.CopyComplete
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\refint\NugetPackaging.dll
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.pdb
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\NugetPackaging.genruntimeconfig.cache
+D:\Osama\2023\Backend\C#\Projects\ConsoleApp1\NugetPackaging\obj\Debug\net6.0\ref\NugetPackaging.dll
